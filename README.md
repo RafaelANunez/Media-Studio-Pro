@@ -55,4 +55,5 @@ Ensure `ffmpeg.exe` and `ffprobe.exe` are placed in the root directory of the ap
 
 You can customize the look of Media Studio Pro by clicking the **🎨 Theme** button. This allows you to change the global accent color and gradient across the entire application interface.
 
----
+---<img width="1440" height="993" alt="preview" src="https://github.com/user-attachments/assets/9777b38c-fdb4-4a0a-bcfa-aff544bd7617" />
+
