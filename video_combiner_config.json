@@ -1,0 +1,16 @@
+{
+    "default_folder": "C:/Users/Rafae/Documents/ComfyUI/output/combine clip",
+    "default_name": "output_video",
+    "preview_fps": 24,
+    "preview_height": 300,
+    "preview_duration": 60.0,
+    "after_merge_action": "In-App Preview",
+    "use_vlc_fullscreen": true,
+    "editor_window_height": 550,
+    "gif_settings": {
+        "fps": 16,
+        "scale": 1.0,
+        "speed": 1.0
+    },
+    "ai_tools_dir": "C:/Users/Rafae/OneDrive/Documents/#script#/video combine script/bin"
+}
