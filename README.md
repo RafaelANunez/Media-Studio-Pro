@@ -52,11 +52,11 @@ A powerful, all-in-one desktop video utility built with **Python**, **CustomTkin
 ### 1. Prerequisites
 
 * **Python 3.10+**
-* 
+ 
 **FFmpeg**: Must be installed and added to your system PATH for fast processing.
 
 
-* 
+
 **VLC Media Player**: Required for the high-performance preview engine.
 
 
@@ -83,8 +83,7 @@ To enable AI features, download the following executables and place them in your
 
 ## 🖥️ Usage
 
-1. 
-**Launch**: Run `run_app.bat` to start the GUI.
+1. **Launch**: Run `run_app.bat` to start the GUI.
 
 
 2. **Add Media**: Drag files into the main window or use the **"Add Clip"** button.
