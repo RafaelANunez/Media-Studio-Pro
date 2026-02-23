@@ -11,7 +11,7 @@ A powerful, all-in-one desktop video utility built with **Python**, **CustomTkin
 
 ### 🎞️ Workspace & Playlist
 
-* 
+
 **Drag & Drop Support**: Easily add multiple video files (MP4, MOV, AVI, WEBM, MKV) directly into the workspace.
 
 
@@ -20,12 +20,12 @@ A powerful, all-in-one desktop video utility built with **Python**, **CustomTkin
 
 ### 🤖 AI-Powered Enhancements
 
-* 
+
 **Rocket Upscaler**: Increase video and image resolution (2x or 4x) using the **Real-ESRGAN** engine for superior detail.
 
 
 * **Face Enhancement**: Optional integration with CodeFormer to sharpen and fix facial details in low-res footage.
-* 
+  
 **Smooth/FPS Tool**: Achieve buttery-smooth motion using **RIFE AI** frame interpolation to double or quadruple your framerate.
 
 
@@ -33,7 +33,7 @@ A powerful, all-in-one desktop video utility built with **Python**, **CustomTkin
 ### ✂️ Advanced Video Editing
 
 * **In-App Trimmer**: Precisely set start and end points to crop or delete specific sections of a clip.
-* 
+  
 **VLC Playback**: High-performance fullscreen previewing powered by the VLC backend for smooth playback.
 
 
